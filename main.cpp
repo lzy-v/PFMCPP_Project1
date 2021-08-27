@@ -125,13 +125,13 @@ cat.miaw();
 cat.purr();
 
 //  9)
-//  Noun:       body
-//  action 1:   the body feels
-body.feel();
-//  action 2:   the body moves   
-body.move();
-//  action 3:   the body works
-body.work();
+//  Noun:       spaceShip
+//  action 1:   the space ship flies high
+spaceShip.flyHigh();
+//  action 2:   the space ship hovers low 
+spaceShip.hoverLow();
+//  action 3:   the space ship lands softly
+spaceShip.landSoftly();
 
 //  10)
 //  Noun:       soul
